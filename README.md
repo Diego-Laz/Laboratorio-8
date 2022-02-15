@@ -52,6 +52,8 @@ Conectar el multimetro:
 
 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
+![image](https://user-images.githubusercontent.com/93835463/153990916-77ed020b-a2fb-416c-bbb0-753b611a2ac3.png)
+
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
 2 cuadros y es posible apreciar un valor de 3 decimas de cuadro por lo tanto 2.3 cuadros
@@ -74,10 +76,45 @@ La perilla se encuentra en la posicion de 0.1 ms
 
 ![image](https://user-images.githubusercontent.com/93835463/153990491-033f20ba-d7f3-4322-8705-7eeeb3cb3a6b.png)
 
+¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+Amplitud de voltaje : 6.91 V
+
+Periodo: Valor de la perilla time/div * cuadritos de un ciclo = 0.1 * 4 = 0.4 ms
+
+Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
+Frecuencia natural = 2500 HZ
+
+Frecuencia angular= frecuencia natural * una vuelta= 2500 * 2π = 5000π rad/s = 15707.96 rad/s
+
+Con el multímetro digital mida el voltaje de salida en RL:
+
+![image](https://user-images.githubusercontent.com/93835463/153990751-4c8bc492-2fc0-4beb-ba21-a81dae180208.png)
+
+Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7 ¿Coinciden? ¿Por qué?
+
+Los valores de los voltajes no coinciden ya que al medir voltaje con un osciloscopio, este mide valores instantaneos en un tiempo determinado , siendo el valor pico el maximo 
+
+que este alcanza y al medir con el multimetro lo que se mide es el voltaje RMS que es el voltaje eficaz, es un valor equivalente que producira el mismo efecto de disipacion o 
+
+calentamiento.
+
+para comproar el valor utilizamos la formula 
+
+Vrms= Vpico/√ 2
+
+entonces :   Vrms=6.91 V/√ 2 = 4.886 V 
+
+que es el voltaje medido con el multimetro.
 
 VIDEOS:
 
 CONCLUSIONES:
+
+Mediante el uso del Oscilosciopio nos permitio realizar un analisis visual de las variaciones del voltaje en un circuito dado que en la representacion de la onda nos fue posible
+
+observar la amplitud del voltaje en valores pico y asi poder analizarla mediante la observacion de los valores de division por cuadro
 
 BIBLIOGRAFÍA:
  
