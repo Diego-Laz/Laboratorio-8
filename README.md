@@ -18,6 +18,8 @@ Determinar experimentalmente las características de señales senoidales.
 
 MARCO TEÓRICO:
 
+![image](https://user-images.githubusercontent.com/93835463/153992035-d9cac52e-3861-4920-a7cd-41d58533df21.png)
+
 EXPLICACIÓN DEL PROCEDIMIENTO:
 
 Para empezar a realizar los circuito en DCACLab debemos extraer de la barra de componentes lo que necesitemos que en este caso es:
@@ -117,4 +119,5 @@ Mediante el uso del Oscilosciopio nos permitio realizar un analisis visual de la
 observar la amplitud del voltaje en valores pico y asi poder analizarla mediante la observacion de los valores de division por cuadro
 
 BIBLIOGRAFÍA:
- 
+
+Zapata, F. (2019, 22 agosto). Onda senoidal: características, partes, cálculo, ejemplos. Lifeder. Recuperado 14 de febrero de 2022, de https://www.lifeder.com/onda-senoidal/
