@@ -112,6 +112,8 @@ que es el voltaje medido con el multimetro.
 
 VIDEOS:
 
+https://www.youtube.com/watch?v=6fEyvixyXQc
+
 CONCLUSIONES:
 
 Mediante el uso del Oscilosciopio nos permitio realizar un analisis visual de las variaciones del voltaje en un circuito dado que en la representacion de la onda nos fue posible
